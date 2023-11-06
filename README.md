@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Security Consultant and Penetration Tester.
+
+Currently I'm learning how to use Obsidian for my personal notes, and improving my code review abilities. 
+
+And probably doing something dumb with Cameras 📸.
+
 <!--
 **martin-harvey/martin-harvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
