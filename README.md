@@ -2,7 +2,7 @@
 
 I'm a Security Consultant and Penetration Tester.
 
-Currently I'm learning how to use Obsidian for my personal notes, and improving my code review abilities. 
+Currently I'm improving my code review abilities, and trying to learn mobile reverse engineering and ARM assembly. 
 
 And probably doing something dumb with Cameras 📸.
 
